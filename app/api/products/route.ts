@@ -150,7 +150,7 @@ export const GET = () => {
       category: "Chair",
       rating: 4.8,
       stock: 100,
-      image: "blob:https://www.imagine.art/13e7acfd-1f28-4ab2-ba17-6c31d8438b27",
+      image: "https://png.pngtree.com/element_our/20190602/ourmid/pngtree-square-front-chair-illustration-image_1418869.jpg",
       price: 600,
       oldPrice: 810
     },
