@@ -237,6 +237,153 @@ export const GET = () => {
       image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6qpFXehFlI0vJYkppLgxv6Uaiy7jyrdjh_A&s',
       price: 620,
       oldPrice: 760
-    }    
+    },
+    [
+      {
+        id: 19,
+        tag: "Shop",
+        title: "The Cozy Cove",
+        description: "The Cozy Cove chair offers a perfect blend of comfort and style, ideal for creating a relaxed and inviting atmosphere in your home or office.",
+        category: "Chair",
+        rating: 4.4,
+        stock: 100,
+        image: "https://ln.run/fnZJ4",
+        price: 780,
+        oldPrice: 960
+      },
+      {
+        id: 20,
+        tag: "Shop",
+        title: "The Velvet Embrace",
+        description: "Indulge in luxurious comfort with The Velvet Embrace chair, designed to provide exceptional support and elegance for your relaxation and work moments.",
+        category: "Chair",
+        rating: 4.9,
+        stock: 100,
+        image: "https://ln.run/kgBrc",
+        price: 800,
+        oldPrice: 880
+      },
+      {
+        id: 21,
+        tag: "Shop",
+        title: "Urban Minimalist",
+        description: "The Urban Minimalist chair brings sleek, contemporary design and comfort together for those who appreciate modern aesthetics and functional furniture.",
+        category: "Chair",
+        rating: 3.7,
+        stock: 100,
+        image: "https://ln.run/Eg8kw",
+        price: 645,
+        oldPrice: 760
+      },
+      {
+        id: 22,
+        tag: "Shop",
+        title: "Campus Companion",
+        description: "The Campus Companion bag is your ideal travel companion, combining style and practicality to carry all your essentials with ease and comfort.",
+        category: "Bag",
+        rating: 4.6,
+        stock: 100,
+        image: "https://ln.run/ytfgA",
+        price: 295,
+        oldPrice: 365
+      },
+      {
+        id: 23,
+        tag: "Shop",
+        title: "Lush Landing",
+        description: "Relax in style with the Lush Landing chair, providing plush support and a sophisticated design to enhance both your office and living space.",
+        category: "Chair",
+        rating: 4.6,
+        stock: 100,
+        image: "https://ln.run/HRixH",
+        price: 505,
+        oldPrice: 550
+      },
+      {
+        id: 24,
+        tag: "Shop",
+        title: "The Swift Voyager",
+        description: "The Swift Voyager watch is a perfect fusion of precision and design, offering both durability and elegance for those who value timekeeping excellence.",
+        category: "Watches",
+        rating: 4.2,
+        stock: 100,
+        image: "https://ln.run/qkmvI",
+        price: 610,
+        oldPrice: 690
+      },
+      {
+        id: 25,
+        tag: "Shop",
+        title: "The Legacy Timepiece",
+        description: "A timeless accessory, The Legacy Timepiece watch combines sophisticated design with unmatched functionality, making it the perfect choice for any occasion.",
+        category: "Watches",
+        rating: 4.6,
+        stock: 100,
+        image: "https://ln.run/7Szsn",
+        price: 580,
+        oldPrice: 705
+      },
+      {
+        id: 26,
+        tag: "Shop",
+        title: "Sound Sphere",
+        description: "The Sound Sphere headphones deliver immersive sound quality and supreme comfort, making them ideal for music lovers and audiophiles alike.",
+        category: "HeadPhones",
+        rating: 4.8,
+        stock: 100,
+        image: "https://ln.run/15LRH",
+        price: 600,
+        oldPrice: 735
+      },
+      {
+        id: 27,
+        tag: "Shop",
+        title: "Cloud Drift",
+        description: "The Cloud Drift chair offers a cloud-like experience with its plush cushioning and ergonomic design, making it the perfect spot for relaxation or focus.",
+        category: "Chair",
+        rating: 4.5,
+        stock: 100,
+        image: "https://ln.run/B9l3u",
+        price: 490,
+        oldPrice: 600
+      },
+      {
+        id: 28,
+        tag: "Shop",
+        title: "Echo Wave",
+        description: "The Echo Wave headphones provide a rich, crisp sound profile that enhances your listening experience, whether you're working or enjoying your favorite tunes.",
+        category: "HeadPhones",
+        rating: 4.1,
+        stock: 100,
+        image: "https://ln.run/XPQNp",
+        price: 610,
+        oldPrice: 740
+      },
+      {
+        id: 29,
+        tag: "Shop",
+        title: "Vanguard Series",
+        description: "The Vanguard Series watch is designed for the bold, with a unique aesthetic and precise craftsmanship that elevates your style and keeps you on time.",
+        category: "Watches",
+        rating: 4.5,
+        stock: 100,
+        image: "https://ln.run/yRE9S",
+        price: 565,
+        oldPrice: 630
+      },
+      {
+        id: 30,
+        tag: "Shop",
+        title: "Celestial Tide",
+        description: "The Celestial Tide headphones offer stellar sound clarity and a luxurious fit, designed to provide a superior audio experience for music and entertainment lovers.",
+        category: "HeadPhones",
+        rating: 4.9,
+        stock: 100,
+        image: "https://ln.run/zkZqI",
+        price: 900,
+        oldPrice: 1005
+      }
+    ]
+    
   ]);
 };
