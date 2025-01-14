@@ -60,7 +60,7 @@ export const GET = () => {
     },
     {
       id: 5,
-      tag: "Latest Products",
+      tag: "Leatest Products",
       title: "Serenity Armchair",
       description:
         "A harmonious blend of luxury and comfort, the Serenity Armchair is the perfect addition to any modern living space, designed for ultimate relaxation.",
@@ -74,7 +74,7 @@ export const GET = () => {
     },
     {
       id: 6,
-      tag: "Latest Products",
+      tag: "Leatest Products",
       title: "Driftwood Chair",
       description:
         "Crafted from natural wood, the Driftwood Chair brings an organic feel to your home. Its rustic design and comfort make it perfect for any living room.",
@@ -88,7 +88,7 @@ export const GET = () => {
     },
     {
       id: 7,
-      tag: "Latest Products",
+      tag: "Leatest Products",
       title: "Cosmos Swivel",
       description:
         "A chair that moves with you. The Cosmos Swivel features 360-degree rotation for flexibility and convenience, perfect for workspaces and home offices.",
@@ -102,7 +102,7 @@ export const GET = () => {
     },
     {
       id: 8,
-      tag: "Latest Products",
+      tag: "Leatest Products",
       title: "Savanna Armchair",
       description:
         "A cozy armchair that brings comfort and style to any room. The Savanna Armchair offers a perfect blend of plush cushioning and contemporary design.",
@@ -116,7 +116,7 @@ export const GET = () => {
     },
     {
       id: 9,
-      tag: "Latest Products",
+      tag: "Leatest Products",
       title: "Polaris Armchair",
       description:
         "An elegant armchair with a modern twist. The Polaris Armchair is perfect for contemporary spaces, combining comfort with sleek design.",
@@ -130,7 +130,7 @@ export const GET = () => {
     },
     {
       id: 10,
-      tag: "Latest Products",
+      tag: "Leatest Products",
       title: "Cosmos Swivel",
       description:
         "Featuring advanced swivel technology, the Cosmos Swivel chair provides ultimate flexibility and comfort, making it perfect for home offices and gaming rooms.",
